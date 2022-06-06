@@ -1,3 +1,5 @@
+  # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif) "Dan Bamikiya")](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif)<p>
+
 ## Hello! My name is Tran Duy Khuong. I am third-year student at University of Science - VNU. 
 ### I can develop web applications. My strong is Front-end, but I also can support back-end. 
 
@@ -32,6 +34,5 @@
   <a href = "mailto:tranduykhuongit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tranduykhuong/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://leetcode.com/tranduykhuongit/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode" target="_blank"></a>
-  <div/>
-  
-  # <p align='center'>[![Hey there, I'm Khuong. I'm a software developer](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
+ 
+ 
