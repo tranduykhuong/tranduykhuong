@@ -1,4 +1,4 @@
-  # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif) "Dan Bamikiya")](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif)<p>
+  # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif))](https://raw.githubusercontent.com/gist/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif)<p>
 
 ## Hello! My name is Tran Duy Khuong. I am third-year student at University of Science - VNU. 
 ### I can develop web applications. My strong is Front-end, but I also can support back-end. 
